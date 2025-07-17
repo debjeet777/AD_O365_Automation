@@ -1,5 +1,5 @@
 <#
-    Creation by By Debjeet Ghosh
+    Creation By Debjeet Ghosh
 #>
 
 # Import the Active Directory module
