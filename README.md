@@ -7,6 +7,13 @@ This repository contains a growing collection of PowerShell scripts and automati
 - **Office 365 (Microsoft 365):** User provisioning, license management, mailbox operations, and reporting.
 - **General IT Automation:** Task scheduling, system cleanup, log analysis, and more.
 
+## Prerequisites
+Powershell 7
+AD Managaement Module 
+Exchange Online 
+MG Graph Module 
+MailKit 
+
 ## 💡 Purpose
 To reduce manual workload, improve consistency, and accelerate IT operations by leveraging automation in a secure and scalable way.
 
